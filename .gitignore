@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+outputs/
+ckpt/
+wandb/
+*.ckpt
+.hydra/
+*.log
